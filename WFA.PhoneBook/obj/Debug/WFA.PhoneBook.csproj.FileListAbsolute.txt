@@ -1,0 +1,17 @@
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\WFA.PhoneBook.exe.config
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\WFA.PhoneBook.exe
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\WFA.PhoneBook.pdb
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\MetroFramework.Design.dll
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\MetroFramework.dll
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\bin\Debug\MetroFramework.Fonts.dll
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.csprojAssemblyReference.cache
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.ContactsForm.resources
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.Properties.Resources.resources
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.csproj.GenerateResource.cache
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.csproj.CoreCompileInputs.cache
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.csproj.CopyComplete
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.exe
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.pdb
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.ContactRegistratonForm.resources
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.ContactInformationForm.resources
+D:\programms\c#\Gui\WFA.PhoneBook\WFA.PhoneBook\obj\Debug\WFA.PhoneBook.AddNumberForm.resources
